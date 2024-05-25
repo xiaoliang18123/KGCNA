@@ -1,0 +1,190 @@
+nohup: ignoring input
+begin preproccess==========================================================================================
+last-fm start_sample 16_item at: 1666353317.7663257
+last-fm end_sample 16_item at: 1666353319.6808155
+last-fm totall time : 1.91448974609375
+(23566, 16)
+last-fm start_sample 32_item at: 1666353319.6809049
+last-fm end_sample 32_item at: 1666353322.0393922
+last-fm totall time : 2.358487367630005
+(23566, 32)
+last-fm start_sample 64_item at: 1666353322.039469
+last-fm end_sample 64_item at: 1666353326.3541777
+last-fm totall time : 4.314708709716797
+(23566, 64)
+last-fm start_sample 128_item at: 1666353326.354258
+last-fm end_sample 128_item at: 1666353334.8424287
+last-fm totall time : 8.488170623779297
+(23566, 128)
+last-fm start_sample 256_item at: 1666353334.8424993
+last-fm end_sample 256_item at: 1666353350.1467361
+last-fm totall time : 15.304236888885498
+(23566, 256)
+last-fm start_build_user_4_neibor at: 1666353350.475247
+last-fm end_build_user_4_neibor at: 1666353354.5941498
+last-fm totall time : 4.118902921676636
+last-fm user 4_neibor preroccess finish
+(23566, 23566)
+last-fm start_build_user_8_neibor at: 1666353354.5942078
+last-fm end_build_user_8_neibor at: 1666353363.851258
+last-fm totall time : 9.257050275802612
+last-fm user 8_neibor preroccess finish
+(23566, 23566)
+last-fm start_build_user_16_neibor at: 1666353363.8513186
+last-fm end_build_user_16_neibor at: 1666353382.9772465
+last-fm totall time : 19.125927925109863
+last-fm user 16_neibor preroccess finish
+(23566, 23566)
+last-fm start_build_user_32_neibor at: 1666353382.9773252
+last-fm end_build_user_32_neibor at: 1666353420.5554593
+last-fm totall time : 37.578134059906006
+last-fm user 32_neibor preroccess finish
+(23566, 23566)
+last-fm start_build_user_64_neibor at: 1666353420.5555387
+last-fm end_build_user_64_neibor at: 1666353492.9359887
+last-fm totall time : 72.38045001029968
+last-fm user 64_neibor preroccess finish
+(23566, 23566)
+last-fm start_build_user_128_neibor at: 1666353492.9360702
+last-fm end_build_user_128_neibor at: 1666360469.4441335
+last-fm totall time : 6976.508063316345
+last-fm user 128_neibor preroccess finish
+(23566, 23566)
+last-fm start_build_item_4_neibor at: 1666360469.4442532
+last-fm end_build_item_4_neibor at: 1666378631.4674816
+last-fm totall time : 18162.023228406906
+last-fm item 4_neibor preroccess finish
+(48123, 48123)
+last-fm start_build_item_8_neibor at: 1666378631.4675515
+last-fm end_build_item_8_neibor at: 1666385418.7287507
+last-fm totall time : 6787.261199235916
+last-fm item 8_neibor preroccess finish
+(48123, 48123)
+last-fm start_build_item_16_neibor at: 1666385418.72881
+last-fm end_build_item_16_neibor at: 1666392018.056472
+last-fm totall time : 6599.327661991119
+last-fm item 16_neibor preroccess finish
+(48123, 48123)
+last-fm start_build_item_32_neibor at: 1666392018.0565193
+last-fm end_build_item_32_neibor at: 1666398809.2103179
+last-fm totall time : 6791.15379858017
+last-fm item 32_neibor preroccess finish
+(48123, 48123)
+last-fm start_build_item_64_neibor at: 1666398809.210386
+last-fm end_build_item_64_neibor at: 1666405746.5375133
+last-fm totall time : 6937.3271272182465
+last-fm item 64_neibor preroccess finish
+(48123, 48123)
+last-fm start_build_item_128_neibor at: 1666405746.5375657
+last-fm end_build_item_128_neibor at: 1666427946.2854128
+last-fm totall time : 22199.74784708023
+last-fm item 128_neibor preroccess finish
+(48123, 48123)
+last-fm preroccess finish use totall time: 74628.51919817924
+last-fm preroccess finish
+amazon-book start_sample 16_item at: 1666427963.181641
+amazon-book end_sample 16_item at: 1666427974.9647396
+amazon-book totall time : 11.783098459243774
+(70679, 16)
+amazon-book start_sample 32_item at: 1666427974.9648077
+amazon-book end_sample 32_item at: 1666427988.9162424
+amazon-book totall time : 13.95143461227417
+(70679, 32)
+amazon-book start_sample 64_item at: 1666427988.9163465
+amazon-book end_sample 64_item at: 1666428005.5925155
+amazon-book totall time : 16.67616891860962
+(70679, 64)
+amazon-book start_sample 128_item at: 1666428005.5926065
+amazon-book end_sample 128_item at: 1666428030.0197735
+amazon-book totall time : 24.42716693878174
+(70679, 128)
+amazon-book start_sample 256_item at: 1666428030.0198326
+amazon-book end_sample 256_item at: 1666428065.8093417
+amazon-book totall time : 35.78950905799866
+(70679, 256)
+amazon-book start_build_user_4_neibor at: 1666428066.2741144
+amazon-book end_build_user_4_neibor at: 1666438080.150458
+amazon-book totall time : 10013.876343727112
+amazon-book user 4_neibor preroccess finish
+(70679, 70679)
+amazon-book start_build_user_8_neibor at: 1666438080.150571
+amazon-book end_build_user_8_neibor at: 1666447806.3879697
+amazon-book totall time : 9726.23739862442
+amazon-book user 8_neibor preroccess finish
+(70679, 70679)
+amazon-book start_build_user_16_neibor at: 1666447806.3880763
+amazon-book end_build_user_16_neibor at: 1666457410.1419551
+amazon-book totall time : 9603.753878831863
+amazon-book user 16_neibor preroccess finish
+(70679, 70679)
+amazon-book start_build_user_32_neibor at: 1666457410.142098
+amazon-book end_build_user_32_neibor at: 1666467168.4215226
+amazon-book totall time : 9758.279424667358
+amazon-book user 32_neibor preroccess finish
+(70679, 70679)
+amazon-book start_build_user_64_neibor at: 1666467168.4216466
+amazon-book end_build_user_64_neibor at: 1666476767.0826735
+amazon-book totall time : 9598.66102695465
+amazon-book user 64_neibor preroccess finish
+(70679, 70679)
+amazon-book start_build_user_128_neibor at: 1666476767.0827842
+amazon-book end_build_user_128_neibor at: 1666486549.5179443
+amazon-book totall time : 9782.435160160065
+amazon-book user 128_neibor preroccess finish
+(70679, 70679)
+amazon-book start_build_item_4_neibor at: 1666486549.5180798
+amazon-book end_build_item_4_neibor at: 1666491029.918541
+amazon-book totall time : 4480.400461196899
+amazon-book item 4_neibor preroccess finish
+(24915, 24915)
+amazon-book start_build_item_8_neibor at: 1666491029.9186423
+amazon-book end_build_item_8_neibor at: 1666495589.5385902
+amazon-book totall time : 4559.619947910309
+amazon-book item 8_neibor preroccess finish
+(24915, 24915)
+amazon-book start_build_item_16_neibor at: 1666495589.538694
+amazon-book end_build_item_16_neibor at: 1666499506.9092069
+amazon-book totall time : 3917.3705129623413
+amazon-book item 16_neibor preroccess finish
+(24915, 24915)
+amazon-book start_build_item_32_neibor at: 1666499506.9092607
+amazon-book end_build_item_32_neibor at: 1666503024.037152
+amazon-book totall time : 3517.1278913021088
+amazon-book item 32_neibor preroccess finish
+(24915, 24915)
+amazon-book start_build_item_64_neibor at: 1666503024.0372317
+amazon-book end_build_item_64_neibor at: 1666506132.88452
+amazon-book totall time : 3108.8472883701324
+amazon-book item 64_neibor preroccess finish
+(24915, 24915)
+amazon-book start_build_item_128_neibor at: 1666506132.8846073
+amazon-book end_build_item_128_neibor at: 1666509593.3195853
+amazon-book totall time : 3460.4349780082703
+amazon-book item 128_neibor preroccess finish
+(24915, 24915)
+amazon-book preroccess finish use totall time: 81630.13802981377
+amazon-book preroccess finish
+alibaba-fashion start_sample 16_item at: 1666509623.4604228
+alibaba-fashion end_sample 16_item at: 1666509639.9151292
+alibaba-fashion totall time : 16.45470643043518
+(114737, 16)
+alibaba-fashion start_sample 32_item at: 1666509639.9152088
+alibaba-fashion end_sample 32_item at: 1666509660.6741369
+alibaba-fashion totall time : 20.758928060531616
+(114737, 32)
+alibaba-fashion start_sample 64_item at: 1666509660.6742043
+alibaba-fashion end_sample 64_item at: 1666509686.8654492
+alibaba-fashion totall time : 26.19124484062195
+(114737, 64)
+alibaba-fashion start_sample 128_item at: 1666509686.8655171
+alibaba-fashion end_sample 128_item at: 1666509698.8269186
+alibaba-fashion totall time : 11.961401462554932
+(114737, 128)
+alibaba-fashion start_sample 256_item at: 1666509698.8269837
+alibaba-fashion end_sample 256_item at: 1666509712.7128704
+alibaba-fashion totall time : 13.885886669158936
+(114737, 256)
+alibaba-fashion start_build_user_4_neibor at: 1666509712.970371
+alibaba-fashion end_build_user_4_neibor at: 1666575875.1773636
+alibaba-fashion totall time : 66162.20699262619
+alibaba-fashion user 4_neibor preroccess finish
